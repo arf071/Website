@@ -11,6 +11,6 @@ body {
     /* another attribute, font-familiy, to the body rule, and set the value */
     font-family: 'Times New Roman';
     /* more attributes */
-    background: gray;
+    background: lightblue;
     color: snow;
 }
