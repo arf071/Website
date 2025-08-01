@@ -2,7 +2,9 @@
 /* Image resize, set the width of all image tags to 200 px (pixels) */
 img { 
     width: 200px;
+    border-radius: 50%; /* Make image circular */
 }
+
 /* Center-align the entire body section */
 body {
     text-align: center;
