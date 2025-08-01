@@ -1,0 +1,14 @@
+/* Cascading Style Sheets (CSS) is used for styling the tag (or "elements) on a web page */
+/* Image resize, set the width of all image tags to 200 px (pixels) */
+img { 
+    width: 200px;
+}
+/* Center-align the entire body section */
+body {
+    text-align: center;
+    /* another attribute, font-familiy, to the body rule, and set the value */
+    font-family: 'Times New Roman';
+    /* more attributes */
+    background: gray;
+    color: beige;
+}
